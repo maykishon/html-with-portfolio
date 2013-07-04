@@ -185,6 +185,9 @@ box-shadow: 2px 2px 0px 0px #d7d8d6;
 .history_list {
 	text-align: right;
 }
+.history_list {
+direction:rtl;
+}
 
 /* Skills Details */
 .skills_list{ margin-left:45px;}
