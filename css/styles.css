@@ -140,7 +140,8 @@ h2.title { color:#999999; font-size:24px; font-weight:normal; text-shadow:none; 
 border-radius: 5px; 
 -webkit-box-shadow: 2px 2px 0px 0px #d7d8d6;
 -moz-box-shadow: 2px 2px 0px 0px #d7d8d6;
-box-shadow: 2px 2px 0px 0px #d7d8d6; 
+box-shadow: 2px 2px 0px 0px #d7d8d6;
+text-align: right; 
 }
 .note_box h2{ font-size:36px; margin:0px 0px 15px 45px; border-bottom:1px dotted #d7d8d6; padding-bottom:5px;}
 .hover h2{ color:#3FFF91; text-shadow:none;}
