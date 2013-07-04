@@ -141,7 +141,6 @@ border-radius: 5px;
 -webkit-box-shadow: 2px 2px 0px 0px #d7d8d6;
 -moz-box-shadow: 2px 2px 0px 0px #d7d8d6;
 box-shadow: 2px 2px 0px 0px #d7d8d6;
-text-align: right; 
 }
 .note_box h2{ font-size:36px; margin:0px 0px 15px 45px; border-bottom:1px dotted #d7d8d6; padding-bottom:5px;}
 .hover h2{ color:#3FFF91; text-shadow:none;}
@@ -177,8 +176,15 @@ text-align: right;
 .facebook_list{  background: url(../img/facebook-icon-2.png) no-repeat left top;}
 
 /* History Details */
-.history_list span{ color:#000; font-weight:bold; display:block;}
+.history_list span{ 
+	color:#000; 
+	font-weight:bold; 
+	display:block;
+}
 .history_list li{ margin-bottom:10px; line-height:18px;}
+.history_list {
+	text-align: right;
+}
 
 /* Skills Details */
 .skills_list{ margin-left:45px;}
